@@ -4,6 +4,8 @@ HAVOC is an educational network attack simulation engine built with C++17 and Op
 
 <img width="1391" height="849" alt="image" src="https://github.com/user-attachments/assets/1a1278fd-9040-4fbc-9f09-f0e6e3c7ecb7" />
 
+<img width="1391" height="849" alt="image" src="https://github.com/user-attachments/assets/d22be834-25b0-4d3a-addb-5bbc6d448ba6" />
+
 
 ## Features
 
