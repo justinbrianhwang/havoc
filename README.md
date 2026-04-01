@@ -2,6 +2,9 @@
 
 HAVOC is an educational network attack simulation engine built with C++17 and OpenGL (Dear ImGui). Simulates 12 types of DoS/DDoS attacks internally with real-time monitoring — no actual network traffic is generated.
 
+<img width="1391" height="849" alt="image" src="https://github.com/user-attachments/assets/1a1278fd-9040-4fbc-9f09-f0e6e3c7ecb7" />
+
+
 ## Features
 
 - **12 Attack Types** simulated with realistic packet generation
